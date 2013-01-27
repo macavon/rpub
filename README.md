@@ -50,7 +50,7 @@ book, and its version number. You can set these values, as well as a few others,
 in a special configuration file called `config.yml`:
 
     ---
-    author: Your Name
+    creator: Your Name
     title: My new book
     version: 0.1.0
 
